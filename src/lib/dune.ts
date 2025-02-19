@@ -1,4 +1,4 @@
-import { DuneClient } from "@duneanalytics/client-sdk";
+import { DuneClient } from "dune-client";
 import { DUNE_QUERY_ID } from "~/lib/constants";
 
 const DUNE_API_KEY = process.env.DUNE_API_KEY;
